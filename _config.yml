@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Truely random!
 tagline:          'software engineer notes'
 description:      'Bazzinga!'
-url:              https://rukman7.github.io
+url:              https://github.com/rukman7
 github_username: rukman7
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
@@ -14,24 +14,19 @@ baseurl:          ''
                   # If you want to move just the blog index pages but keep
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
-
-social-network-links:
-  email: "someone@example.com"
-  rss: false
-
-github:
-  repo: https://github.com/rukman7
+# Google services
+google_analytics: UA-173916595-1
 
 author:
   name:           'Rukmangathan annadurai'
-  url:            ''
+  url:            'https://github.com/rukman7'
 
 paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
 
