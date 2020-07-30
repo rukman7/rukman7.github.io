@@ -34,7 +34,7 @@ section {
 
 // No `:visited` state is required by default (browsers will use `a`)
 a {
-  color: $link-color;
+  color: $custom-blue;
   text-decoration: none;
 
   // `:focus` is linked to `:hover` for basic accessibility

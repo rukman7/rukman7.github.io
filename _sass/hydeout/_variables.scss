@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@600&display=swap');
 
 $hover-border: #FFC400 !default;
+$custom-blue: #0747A6 !default;
 
 $gray-1: #f9f9f9 !default;
 $gray-2: #FFC400 !default;
@@ -8,6 +9,7 @@ $gray-3: #ccc !default;
 $gray-4: #42526E !default;
 $gray-5: #42526E !default;
 $gray-6: #253858 !default;
+$gray-7: #5E6C84 !default;
 
 $red: #ac4142 !default;
 $orange: #d28445 !default;
@@ -25,6 +27,7 @@ $body-color: $gray-5 !default;
 $body-muted: $gray-4 !default;
 $body-bg: #F4F5F7 !default;
 $link-color: $blue !default;
+$tag-bg: $gray-7 !default;
 $heading-color: $gray-6 !default;
 
 $border-color: $gray-2 !default;
