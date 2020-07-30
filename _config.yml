@@ -6,8 +6,8 @@ highlighter:      rouge
 title:            Truely random!
 tagline:          'software engineer notes'
 description:      'Bazzinga!'
-url:              https://github.com/rukman7
-github_username: rukman7
+url:              https://github.com/rukman7      
+github_username:  rukman7
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.

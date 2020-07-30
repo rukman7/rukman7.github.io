@@ -1,9 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@600&display=swap');
+
+$hover-border: #FFC400 !default;
+
 $gray-1: #f9f9f9 !default;
-$gray-2: #e5e5e5 !default;
+$gray-2: #FFC400 !default;
 $gray-3: #ccc !default;
-$gray-4: #767676 !default;
-$gray-5: #515151 !default;
-$gray-6: #313131 !default;
+$gray-4: #42526E !default;
+$gray-5: #42526E !default;
+$gray-6: #253858 !default;
 
 $red: #ac4142 !default;
 $orange: #d28445 !default;
@@ -13,13 +17,13 @@ $cyan: #75b5aa !default;
 $blue: #268bd2 !default;
 $brown: #8f5536 !default;
 
-$root-font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Arial, sans-serif !default;
+$root-font-family:  'Work Sans', sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Arial, sans-serif !default;
 $root-font-size: 1rem !default;
-$root-line-height: 1.5 !default;
+$root-line-height: 1.8 !default;
 
 $body-color: $gray-5 !default;
 $body-muted: $gray-4 !default;
-$body-bg: #fff !default;
+$body-bg: #F4F5F7 !default;
 $link-color: $blue !default;
 $heading-color: $gray-6 !default;
 
@@ -42,7 +46,7 @@ $code-font-family: Menlo, Monaco, 'Courier New', monospace !default;
 $code-color: #bf616a !default;
 
 // Hyde theming
-$sidebar-bg-color: #202020 !default;
+$sidebar-bg-color: #0747A6 !default;
 $sidebar-fg-color: #fff !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
