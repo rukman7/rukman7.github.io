@@ -4,12 +4,13 @@ title: About
 sidebar_link: true
 ---
 
-> Who is going to ever read my notes!?<br>
-><cite>Rukman<cite>
+> Simplicity is the most difficult thing to secure in this world; it is the last limit of experience and the last effort of genius.<br>
+>
+><cite>George Sand</cite>
 
 ### Blog information
 
-I'm taking notes for myself here. It's like talking to myself. This blog is basically me. So it's my inner me talking to this me through me.
+I'm taking notes for myself here. I also hope it will be useful for someone else.
 
 ### Author
 
