@@ -1,6 +1,7 @@
 <nav id="sidebar-icon-links">
   {% if site.url %}
     <a id="github-link"
+       target="_blank"
        class="icon" title="Github Project" aria-label="Github Project"
        href="{{ site.url }}">
       {% include svg/github.svg %}
@@ -13,7 +14,7 @@
   {% endif %}
 
   {% if site.linkedIn %}
-  <a id="github-link" class="icon" title="LinkedIn" aria-label="LinkedIn" href="{{ site.linkedIn }}">
+  <a id="linkedin-link" class="icon" title="LinkedIn" aria-label="LinkedIn" target="_blank" href="https://{{ site.linkedIn }}">
     {% include svg/linkedin.svg %}
   </a>
   {% endif %}
