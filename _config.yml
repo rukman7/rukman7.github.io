@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Truely random!
 tagline:          'software engineer notes'
 description:      'Bazzinga!'
-url:              rukman7.github.io      
+url:              'https://github.com/rukman7'
 github_username:  rukman7
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
@@ -15,6 +15,7 @@ baseurl:          ''
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
 # Google services
+linkedIn:         'linkedin.com/in/rukmangathan-annadurai-860413160'
 google_analytics: UA-173916595-1
 
 author:
