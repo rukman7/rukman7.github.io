@@ -34,7 +34,7 @@ Search through the history for changes containing specific string.
 
 `git log -S"string" /path/to/file`
 
-The above command can be helpful when search for changes that added or removed a specifc string.
+The above command can be helpful when searching for changes that added or removed a specifc string.
 
 Display log with number of insertions and deletions to each file in a commit.
 
