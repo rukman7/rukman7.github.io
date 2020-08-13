@@ -2,8 +2,8 @@
 layout: post
 title: Coding with EAFP mindset in python
 tags:
-  - Python
-  - Programming-principle
+  - python
+  - programming-principle
 ---
 ### EAFP principle (Easier to Ask for Forgiveness than it is to get Permission)
 The EAFP is a common principle/coding style used by the python community.

@@ -2,7 +2,7 @@
 layout: post
 title: Digging GIT history using 'git log'
 tags:
-  - GIT
+  - git
 ---
 ### A good analogy
 Sometimes while debugging/analysing a bug or issue in the code, It can be helping to review and analyse the history of changes that went into to file/directory. While most of the times simply looking at the code may give us what we need, Sometimes it can be time consuming. Looking at past history can render a better context and makes debugging a lot faster.
