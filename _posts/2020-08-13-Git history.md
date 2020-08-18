@@ -56,6 +56,6 @@ git log --no-merges
 ```
 
 
-Other advanced usages: \
+#### Other advanced usages:
 [git log man page](http://web.mit.edu/git/www/git-log.html) \
 [bitbucket git log](https://www.atlassian.com/git/tutorials/git-log)
