@@ -21,4 +21,4 @@ Hi, My name is Rukmangathan. 'Rukman' in short. I work for a successful company 
 This blog uses a customized version of the jekyll theme [hydeout](https://github.com/fongandrew/hydeout) & it is hosted using [github pages](https://docs.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
 
 
-_Inspired from_ <a href="https://blog.sleeplessbeastie.eu/about/" target="_blank">sleeplessbeastie</a>
+_Inspired by_ <a href="https://blog.sleeplessbeastie.eu/about/" target="_blank">sleeplessbeastie</a>
