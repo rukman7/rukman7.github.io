@@ -5,8 +5,6 @@ tags:
   - linux
   - file permissions
 ---
-![file folder](../../../assets/images/omid-kashmari-s34f0Wxbens-unsplash.jpg)
-<div style="text-align: right"> <cite><span>Photo by <a href="https://unsplash.com/@omidkashmari?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Omid Kashmari</a> on <a href="https://unsplash.com/s/photos/files?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span></cite></div>
 
 ### Permission groups
 1. owner - owner of the file.
