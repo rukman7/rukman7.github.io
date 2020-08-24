@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bash basics
+title: Bash scripting - basics
 tags:
   - linux
   - bash
@@ -70,7 +70,11 @@ do
   i=$[$i+1]
 done
 ```
-
+##### 'until' loop
+```bash
+#similar to while loop
+#syntax structure - until; do; done;
+```
 ### Command line arguments
 * Use `$1` to get the first argument ,$2 for 2nd argument and so on..
 * Use `*$` to get all arguments.
@@ -107,7 +111,7 @@ BruceWayne:[~] $
 ```
 
 ### Variables
-* It's a good habit to use curly braces around variables. For instance, While `$var` works but its better to have `${var}`.
+* It's a good habbit to use curly braces around variables. For instance, While `$var` works but its better to have `${var}`.
 * Attributes can be set to variables using `declare`. \ 
     ```bash
     #example
@@ -219,6 +223,7 @@ let x=10*10 #will hold 100
 #example
 #010 will be interpreted as 8
 ```
+
 ### Arrays
 * Saving values in a array(no declaration required)
 ```bash
@@ -238,17 +243,17 @@ arr=(5,4,3,2,1,a,b,c)
 ```bash
   echo ${arr[2]} #would out put "ross"
 
-  #Retrieving all values.
+  #Retrieving all values
   echo ${x[@]}
   echo ${x[*]}
 
-  #Get number of elements in the array.
+  #Get number of elements in the array
   echo ${#arr[@]}
 
-  #Display indices instead of value.
+  #Display indices instead of value
   echo ${!arr[@]}
 
-  #Display indices and values.
+  #Display indices and values
   echo declare -p arr
 ```
 
