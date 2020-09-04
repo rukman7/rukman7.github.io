@@ -31,7 +31,7 @@ willpower and discipline is more important than the training itself.
 <div style="text-align: right"> <cite>Christian Bale as Alfred Borden</cite></div>
 
 #### Copycat
-Angier copied Borden's 'The transported man illusion' and explained it as though it was an improvement over an exisitng act. This is similar to how in this modern world people copy works of others and call it their work. In the end, Copying is still copying.
+Angier copied Borden's 'The transported man illusion' and explained it as though it was an improvement over an exisiting act. This is similar to how people copy works of others and call it theirs. In the end, Copying is still copying.
 
 #### Keeping a secret
 Borden refused to share his secret no matter what. Money, fame or nothing could persuade him away to reveal his secret trick. 
