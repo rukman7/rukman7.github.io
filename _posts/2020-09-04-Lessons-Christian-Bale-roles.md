@@ -34,7 +34,7 @@ willpower and discipline is more important than the training itself.
 Angier copied Borden's 'The transported man illusion' trick and described it as though it was his own idea. This is similar to how people copy works of others and call it theirs. In the end, Copying is still copying.
 
 #### Keeping a secret
-Borden refused to share his secret no matter what. He had one secret tricks in his sleeves which he would never reveal. Money, fame or nothing could persuade him away to reveal his secret trick. 
+Borden refused to share his secret no matter what. He had secret tricks in his sleeves which he would never reveal. Money, fame or nothing could persuade him away to reveal his secret trick. 
 
 #### Favourite quotes from the movie
 >_"If you give the secret up, you are nothing to them"_<br>
