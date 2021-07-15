@@ -1,6 +1,7 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
+disqus.shortname: rukman7-github-io
 
 # Setup
 title:            Truely random!
