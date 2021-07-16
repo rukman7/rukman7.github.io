@@ -32,15 +32,14 @@ Given a graph and a source vertex, Dijkstra's algorithm can used to find the sho
   # Adjacency matrix is used
 
     # variable initialization
-    for i in range(V):
-      distArray[i] = 1000000
-      vistSet[i] = False    
+    distArray = [1000000] * V
+    vistSet = [False] * V    
   
     def minDistance(distArray, vistSet): 
-        min = 1000000
+        minimum = 1000000
         for v in range(V): 
-            if distArray[v] < min and vistSet[v] == False: 
-                min = distArray[v] 
+            if distArray[v] < minimum and vistSet[v] == False: 
+                minimum = distArray[v] 
                 min_index = v 
         return min_index
 
