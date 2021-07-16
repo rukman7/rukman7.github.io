@@ -59,4 +59,4 @@ Given a graph and a source vertex, Dijkstra's algorithm can used to find the sho
 ## References
 
 [NPTEL DAA playlist - youtube](https://youtu.be/gY0MwGLq9W8) \
-[section.io](https://www.section.io/engineering-education/dijkstra-python)
+[section.io](https://www.section.io/engineering-education/dijkstra-python/)
