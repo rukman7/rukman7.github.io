@@ -56,6 +56,12 @@ Given a graph and a source vertex, Dijkstra's algorithm can used to find the sho
         return distArray
   ```
 
+## Note
+* Time complexity - The complexity will be O(n^2) when using either of adjacency list or adjacency matrix.
+* Dijkstra's algorithm uses a greedy approach and it is guaranteed that optimal solution is obtained all the time. This is emphasized because greedy approaches doesn't provide optimal solution in some cases for some problems.
+* Dijkstra's algorithm won't work if the edges in graph has negative weights.
+
+
 ## References
 
 [NPTEL DAA playlist - youtube](https://youtu.be/gY0MwGLq9W8) \
