@@ -10,11 +10,11 @@ tags:
 
 * Major system is a method that can be used for remembering unusually long series of numbers. 
 
-* The system is based on a simple principle that the human mind can remember images more easily than numbers. Generally numbers are difficuilt to remember for so many reasons like there are different possible combinations of them, They do not have visual or emotional value like the words. Words on the other hand will be usually based on a framework and unlike numbers not every combination would make sense.
+* The system is based on a simple principle that the human mind can remember images more easily than numbers. Generally numbers are difficuilt to remember for so many reasons like there are different possible combinations of them, They do not have visual or emotional value like the words. Words on the other hand will be usually based on a framework and unlike numbers where not every combination would make sense.
 
 * Basically each number is associated to a set of consonants. Split the series of numbers that is to be remembered into smaller chunks and form a word for each chunk based on the number to consonants mapping.
 
-* Vowels and consonants y, h & w are not used in mapping. They can be used where ever possible to fill gap or make a word or a sentence meaningful.
+* Vowels and consonants w, h, y & x are not used in mapping. They can be used where ever possible to fill gap or make a word or a sentence meaningful.
 
 
 ### Mapping
