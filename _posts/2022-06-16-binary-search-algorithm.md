@@ -11,7 +11,6 @@ In a sorted array binary search can be used to efficiently get the index of a ta
 Time complexity: log(n)
 
 sample code: 
-
 when a target is given:
 ```python
 def binary_search(target, arr):
