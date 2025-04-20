@@ -1,6 +1,6 @@
 ---
 layout: post
-title: pointers in go
+title: Pointers in go
 tags:
   - go
 
